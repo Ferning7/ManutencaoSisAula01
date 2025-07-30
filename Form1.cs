@@ -56,7 +56,9 @@ namespace PDV_Bug_Example
 
             // O erro está aqui: o array foi inicializado com um tamanho fixo de 5.
             // Se 'itensVenda' tiver 6 ou mais itens, ocorrerá um IndexOutOfRangeException.
-            string[] itensParaProcessar = new string[5];
+
+            //tamanho do array corrigido 
+            string[] itensParaProcessar = new string[itensVenda.Count];
 
             try
             {
