@@ -1,0 +1,16 @@
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.Form1.resources
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.csproj.GenerateResource.cache
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.AssemblyInfoInputs.cache
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.AssemblyInfo.cs
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.csproj.CoreCompileInputs.cache
+C:\Users\rclepf\source\repos\PDV_Bug_Example\bin\Debug\net8.0-windows\PDV_Bug_Example.exe
+C:\Users\rclepf\source\repos\PDV_Bug_Example\bin\Debug\net8.0-windows\PDV_Bug_Example.deps.json
+C:\Users\rclepf\source\repos\PDV_Bug_Example\bin\Debug\net8.0-windows\PDV_Bug_Example.runtimeconfig.json
+C:\Users\rclepf\source\repos\PDV_Bug_Example\bin\Debug\net8.0-windows\PDV_Bug_Example.dll
+C:\Users\rclepf\source\repos\PDV_Bug_Example\bin\Debug\net8.0-windows\PDV_Bug_Example.pdb
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.dll
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\refint\PDV_Bug_Example.dll
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.pdb
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\PDV_Bug_Example.genruntimeconfig.cache
+C:\Users\rclepf\source\repos\PDV_Bug_Example\obj\Debug\net8.0-windows\ref\PDV_Bug_Example.dll
